@@ -1,4 +1,4 @@
-# Dynamic Routes in Sinatra
+gem install bundler -v 2.0.0.pre1# Dynamic Routes in Sinatra
 
 ## Overview
 
